@@ -1,12 +1,5 @@
-# Python
+# Python-Template
 
-Personal repo for learning python and collection of python scripts
+Personal repo for templating python projects
 
-## Resources & useful links
-
--
--
--
--
--
-
+## Usage

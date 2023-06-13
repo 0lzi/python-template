@@ -27,7 +27,7 @@ source ~/.{directory}
 
 ` make format `
 
-# Deactiveate and Clean up venv
+### Deactiveate and Clean up venv
 ```
 deactivate
 

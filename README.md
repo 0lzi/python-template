@@ -27,6 +27,13 @@ source ~/.{directory}
 
 ` make format `
 
+# Deactiveate and Clean up venv
+```
+deactivate
+
+rm -r ~/.{directory}
+```
+
 #### Credits
 
 https://github.com/noahgift/devops-from-zero

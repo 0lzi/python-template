@@ -4,6 +4,13 @@ Personal repo for templating python projects
 
 ## Usage
 
+### Set up virtual env
+
+```
+python3 -m venv ~/.{directory}
+source ~/.{directory}
+```
+
 ### Install requirements
 
 ` make install `
